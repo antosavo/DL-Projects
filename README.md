@@ -1,4 +1,4 @@
-Some Deep Learning Projects.
+Data Science Projects.
 
 If for some reason you can't see an ipynb file, copy its URL into:
 
